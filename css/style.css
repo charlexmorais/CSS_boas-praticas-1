@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Fascinate+Inline&family=Pacifico&family=Raleway&family=Roboto&display=swap');
+
+.titulo1{
+    font-family: 'Dancing Script', cursiva;
+    font-size: 25px;
+}
+.titulo2{
+    font-family: 'Raleway', sans-serif;
+    font-family: 30px;
+}
+.titulo3{
+    font-family: 'Pacifico', cursive;
+    font-size: 38px;
+}
+.titulo4{
+    font-family: 'Fascinate Inline', cursive;
+    font-size:20px ;
+}
+.titulo5{
+    font-family: 'Roboto', sans-serif;
+    font-size:45px ;
+}
